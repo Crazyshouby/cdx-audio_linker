@@ -13,7 +13,7 @@ PARTS = [
     ("Microsoft Edge WebView2 SDK (chargeur statique)", "third_party/webview2/LICENSE.txt",
      "Le programme affiche son interface avec le runtime Microsoft Edge WebView2, installé séparément."),
     ("Microsoft Edge WebView2 SDK, mentions", "third_party/webview2/NOTICE.txt", ""),
-    ("Police de l'interface (KIRC Pixel)", "third_party/fonts/NOTICE-KDX-PIXEL.txt", ""),
+    ("Police de l'interface (CDX Pixel)", "third_party/fonts/NOTICE-KDX-PIXEL.txt", ""),
 ]
 
 out = ["MENTIONS LÉGALES ET LICENCES DES COMPOSANTS TIERS",

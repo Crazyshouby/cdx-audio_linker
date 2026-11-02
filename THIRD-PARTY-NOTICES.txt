@@ -1,20 +1,20 @@
-﻿MENTIONS LÉGALES ET LICENCES DES COMPOSANTS TIERS
-=================================================
-
-AudioLinker inclut ou utilise les composants suivants. Leur texte de licence
-est reproduit tel quel ci-dessous.
-
-L'interface reprend l'apparence du logiciel KDX (Haxial) par la charte cdx-ui. Aucune
-image ni fichier d'apparence de CDX n'est repris ; pour la police, voir sa mention ci-dessous.
-KDX est une marque de Haxial ; AudioLinker n'est lié à Haxial d'aucune façon.
-VB-CABLE (VB-Audio) n'est pas fourni avec AudioLinker : il s'installe séparément.
-
-
-------------------------------------------------------------------------------
-AudioLinker
-------------------------------------------------------------------------------
-AudioLinker est distribué sous licence MIT.
-
+﻿MENTIONS LÉGALES ET LICENCES DES COMPOSANTS TIERS
+=================================================
+
+AudioLinker inclut ou utilise les composants suivants. Leur texte de licence
+est reproduit tel quel ci-dessous.
+
+L'interface reprend l'apparence du logiciel KDX (Haxial) par la charte cdx-ui. Aucune
+image ni fichier d'apparence de CDX n'est repris ; pour la police, voir sa mention ci-dessous.
+KDX est une marque de Haxial ; AudioLinker n'est lié à Haxial d'aucune façon.
+VB-CABLE (VB-Audio) n'est pas fourni avec AudioLinker : il s'installe séparément.
+
+
+------------------------------------------------------------------------------
+AudioLinker
+------------------------------------------------------------------------------
+AudioLinker est distribué sous licence MIT.
+
 MIT License
 
 Copyright (c) 2026 Valentin Large
@@ -35,14 +35,14 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-
-
-------------------------------------------------------------------------------
-nlohmann/json (JSON for Modern C++)
-------------------------------------------------------------------------------
-Bibliothèque JSON intégrée au programme.
-
+SOFTWARE.
+
+
+------------------------------------------------------------------------------
+nlohmann/json (JSON for Modern C++)
+------------------------------------------------------------------------------
+Bibliothèque JSON intégrée au programme.
+
 MIT License 
 
 Copyright (c) 2013-2022 Niels Lohmann
@@ -63,14 +63,14 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-
-
-------------------------------------------------------------------------------
-Microsoft Edge WebView2 SDK (chargeur statique)
-------------------------------------------------------------------------------
-Le programme affiche son interface avec le runtime Microsoft Edge WebView2, installé séparément.
-
+SOFTWARE.
+
+
+------------------------------------------------------------------------------
+Microsoft Edge WebView2 SDK (chargeur statique)
+------------------------------------------------------------------------------
+Le programme affiche son interface avec le runtime Microsoft Edge WebView2, installé séparément.
+
 Copyright (C) Microsoft Corporation. All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
@@ -97,12 +97,12 @@ LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
 DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
 THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
-OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-
-
-------------------------------------------------------------------------------
-Microsoft Edge WebView2 SDK, mentions
-------------------------------------------------------------------------------
+OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+
+------------------------------------------------------------------------------
+Microsoft Edge WebView2 SDK, mentions
+------------------------------------------------------------------------------
 NOTICES AND INFORMATION
 Do Not Translate or Localize
 
@@ -187,14 +187,14 @@ THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF
 THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
----------------------------------------------------------
-
-
-------------------------------------------------------------------------------
-Police de l'interface (KIRC Pixel)
-------------------------------------------------------------------------------
-KIRC Pixel et KIRC Pixel Log (dépôt cdx-ui, outils/gen_font.py) reproduisent, pixel par pixel, les deux
+---------------------------------------------------------
+
+
+------------------------------------------------------------------------------
+Police de l'interface (CDX Pixel)
+------------------------------------------------------------------------------
+CDX Pixel et CDX Pixel Log (dépôt cdx-ui, gen/gen_font.py) reproduisent, pixel par pixel, les deux
 polices bitmap de l'interface de KDX (Haxial Software), relevées sur des captures d'écran de KDX 1.6 ; les
 glyphes que ces captures ne montrent pas ont été dessinés pour le projet. Les formes des lettres restent
 l'oeuvre de Haxial : leur redistribution relève de la décision de l'auteur d'AudioLinker. Aucune autre police
-n'est embarquée.
+n'est embarquée.
